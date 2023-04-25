@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+#container{
+    height: 20px;
+    background-color: green;  
+    margin: 10px;    
+
+}
+h1{
+    font-size: 100px;
+}
+#all{
+    margin-left: 456px;
+    margin-right: 448px;
+}
+#about{
+    color:greenyellow;
+}
